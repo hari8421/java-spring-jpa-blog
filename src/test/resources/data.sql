@@ -43,4 +43,3 @@ INSERT INTO post (title, lead, body, author, date, category_id) VALUES
               'When a stranger passes us a top secret SD card the adventure begins.  Jason Bourne says, "Hi".',
               'When a stranger passes us a top secret SD card the adventure begins.  Jason Bourne says, "Hi".',
               'Sarah Holderness',
-              to_date('01-01-18', 'DD-MM-RR'),2);
